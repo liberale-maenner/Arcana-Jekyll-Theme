@@ -44,10 +44,11 @@
 		color: #63c3d0;
 		text-decoration: none;
 		border-bottom: dotted 1px;
+		color: #63c3d0;
 	}
 
 		a:hover {
-			color: #63c3d0;
+			color: #e84188;
 			border-bottom-color: transparent;
 		}
 
