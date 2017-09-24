@@ -649,11 +649,11 @@
 					}
 
 					#nav > ul > li.current a {
-						color: #fff;
+						color: #e84188;
 					}
 
 				#nav > ul > li.active a {
-					color: #fff;
+					color: #e84188;
 				}
 
 				#nav > ul > li > ul {
